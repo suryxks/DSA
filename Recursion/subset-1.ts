@@ -4,7 +4,7 @@
  intuition: 
   when finding all subsets from a given array , 
    you have two options :
-     1) include(oick) the value in the current index
+     1) include(pick) the value in the current index
      2) exclude the value 
     and move to the next value;
 */
